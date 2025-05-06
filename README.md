@@ -6,9 +6,9 @@
 
 4. pkg install python -y
 
-5. git clone https://github.com/CPMElsedev/CPMElsedev.git
+5. git clone https://github.com/ToshiroGG04/ZyradevCpm.git
 
-6. cd CPMElsedev
+6. cd ZyradevCpm
 
 7. git pull
 
